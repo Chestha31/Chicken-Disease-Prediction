@@ -13,4 +13,4 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ]
 )
-logger= logging.getlogger("ChickenClassifierLogger")
+logger= logging.getLogger("ChickenClassifierLogger")
